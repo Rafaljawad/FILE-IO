@@ -1,4 +1,3 @@
-
 import os
 print(os.getcwd())#GET THE PATH OF THIS FILE
 # # O/P c:\Users\rafal\Videos\python-training-with-kumar-lecturs\practice and notes\File-IO
@@ -158,12 +157,3 @@ print("***************", type(read_data))
 for i in read_data:
     print(f"charecters are: {i}")
     #here if we run it multiple times, we will get  same output(simply its not like a (append) will add every time we run the code)
-
-
-
-
-
-
-
-
-
