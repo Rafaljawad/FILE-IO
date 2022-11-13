@@ -69,17 +69,6 @@ print("float random num ",float_random,"rounded to ",round_float_num)
 # number
 # limit >=8
 # pwd=""
-# upper_char="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-# # upper_list=upper_char.split()
-# # print(upper_list)
-# lower_char=upper_char.lower()
-# # lower_list=lower.split()
-# symbols="#$%^&*()@!+?"
-# num=str(r.randrange(1,10,1))
-# pwd+=upper_char+lower_char+symbols+num
-# # pwd=r.sample(pwd_random,8)
-
-# print(pwd)
 
 print("Welcome to Password Generator")
 letters_lower = [
